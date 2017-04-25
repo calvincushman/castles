@@ -1,0 +1,11 @@
+#castle1 {
+  display: none;
+}
+
+#castle2 {
+  display: none;
+}
+
+.clickable {
+  text-decoration: underline;
+}
